@@ -1,4 +1,4 @@
-# COIVD-19 Tracker using React,Hooks,Material-UI and Chart.js
+# COVID-19 Tracker using React,Hooks,Material-UI and Chart.js
 
 ## Home Page
 
